@@ -14,4 +14,9 @@ O projeto inclui um sistema de tags e tem até um esboço de autenticação, con
 - Cadastro, Remoção e Atualização de Tarefas;
 - Cadastro de Tags.
 
+## Como testar
+ 1. Executar o mysql server;
+ 2. Executar o projeto;
+ 3. Pronto!
+
 Se você gostou, por favor favorite este repositório :smile: :star:
